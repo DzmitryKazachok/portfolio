@@ -1,12 +1,13 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "A proficient and detail-oriented software engineer with web-development knowledge.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap",
+    "С#/.NET",
+    "PHP",
+    "MySQL"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "When you choose to work with me, you're not just hiring a developer; you're gaining a partner who's genuinely interested in your project's success. I pride myself on my punctuality, and client satisfaction. I'm ready to bring your vision to life and exceed your expectations."
 }
